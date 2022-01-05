@@ -1,0 +1,39 @@
+.rowCard {
+  box-shadow: 0px 0px 5px 4px rgba(0, 0, 0, 0.21);
+  -webkit-box-shadow: 0px 0px 5px 4px rgba(0, 0, 0, 0.21);
+  -moz-box-shadow: 0px 0px 5px 4px rgba(0, 0, 0, 0.21);
+  padding: 10px 20px;
+  margin: 10px;
+  margin-left: 100px;
+  border-radius: 5px;
+  width: 60vw;
+  background-color: white;
+}
+
+.rowContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.close {
+  display: flex;
+  box-shadow: 0px 0px 5px 4px rgba(0, 0, 0, 0.21);
+  -webkit-box-shadow: 0px 0px 5px 4px rgba(0, 0, 0, 0.21);
+  -moz-box-shadow: 0px 0px 5px 4px rgba(0, 0, 0, 0.21);
+  background-color: white;
+  color: red;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.btn {
+  background-color: transparent;
+}

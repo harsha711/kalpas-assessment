@@ -1,0 +1,15 @@
+.pageNumberBar {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pageButton {
+  background-color: #e7eff9;
+  background-image: linear-gradient(315deg, #e7eff9 0%, #cfd6e6 74%);
+}
+
+.active-btn {
+  color: white;
+  background-color: gray;
+}

@@ -1,0 +1,23 @@
+.feedback {
+  display: flex;
+  flex-direction: row;
+}
+
+.feedbackContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.feedbackButton {
+  background-color: #f9ea8f;
+  background-image: linear-gradient(315deg, #f9ea8f 0%, #aff1da 74%);
+  font-weight: bold;
+  padding: 10px;
+}
+
+.closeFeedbackButton {
+  background-color: #eec0c6;
+  background-image: linear-gradient(315deg, #eec0c6 0%, #e58c8a 74%);
+}

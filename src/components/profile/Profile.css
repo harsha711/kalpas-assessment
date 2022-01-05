@@ -1,0 +1,20 @@
+.profilePic {
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+}
+
+.profileContainer {
+  display: flex;
+  align-items: center;
+}
+.profile {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.profileInfo {
+  margin-top: 0;
+  margin-bottom: 0;
+}
