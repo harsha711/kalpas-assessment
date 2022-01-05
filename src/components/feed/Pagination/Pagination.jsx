@@ -27,7 +27,7 @@ export default function Pagination({
     <nav className="pageNumberBar nav-pills">
       <ul className="pagination ">
         <li className="nav-item">
-          <a href="!#" className="nav-link" onClick={handleMinPageLimit}>
+          <a href="/" className="nav-link" onClick={handleMinPageLimit}>
             <KeyboardDoubleArrowLeft />
           </a>
         </li>
@@ -35,7 +35,7 @@ export default function Pagination({
           <li key={number} className="nav-item">
             <a
               onClick={() => paginate(number)}
-              href="!#"
+              href="/"
               className={`nav-link ${number === pageNumber && "active"}`}
             >
               {number}
@@ -44,7 +44,7 @@ export default function Pagination({
         ))}
         <li className="nav-item">
           <a
-            href="!#"
+            href="/"
             className="nav-link"
             onClick={() =>
               handleMaxPageLimit(pageNumbers[pageNumbers.length - 1])
