@@ -16,6 +16,7 @@
   justify-content: flex-start;
   flex-wrap: wrap;
   padding: 10px;
+  cursor: pointer;
 }
 
 .close {
@@ -34,6 +35,6 @@
   margin-left: 5px;
 }
 
-.btn {
-  background-color: transparent;
+.readMore-btn {
+  color: rgb(7, 119, 248);
 }

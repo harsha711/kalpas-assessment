@@ -11,12 +11,9 @@ export default function Rowfeed({ posts, removePost, viewPost }) {
             <h6>{post.title}</h6>
             <p>
               {`${post.body.substring(0, 25)}...`}
-              <button
-                onClick={() => viewPost(post)}
-                className="btn btn-outline-primary"
-              >
+              <span onClick={() => viewPost(post)} className="readMore-btn">
                 Read More
-              </button>
+              </span>
             </p>
           </div>
           <div className="close" onClick={() => removePost(post.id)}>
