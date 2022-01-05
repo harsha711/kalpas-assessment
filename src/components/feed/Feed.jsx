@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import ColumnFeed from "./columnFeed/ColumnFeed";
 import "./Feed.css";
-import Pagination from "./Pagination/Pagination";
+import Pagination2 from "./Pagination/Pagination2";
 import Rowfeed from "./rowFeed/Rowfeed";
 import Modal from "./modal/Modal";
 
@@ -101,7 +101,7 @@ export default function Feed({ toggleVal, feedbackVal }) {
         />
       )}
       <div className="paginationContainer">
-        <Pagination
+        <Pagination2
           postsPerPage={postsPerPage}
           totalPosts={posts.length}
           paginate={handlePaginate}
