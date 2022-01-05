@@ -27,31 +27,29 @@ export default function Pagination2({
     <nav className="pageNumberBar nav-pills">
       <ul className="pagination ">
         <li className="nav-item">
-          <a href="!#" className="nav-link" onClick={handleMinPageLimit}>
+          <button className="nav-link" onClick={handleMinPageLimit}>
             <KeyboardDoubleArrowLeft />
-          </a>
+          </button>
         </li>
         {currentPages.map((number) => (
           <li key={number} className="nav-item">
-            <a
+            <button
               onClick={() => paginate(number)}
-              href="!#"
               className={`nav-link ${number === pageNumber && "active"}`}
             >
               {number}
-            </a>
+            </button>
           </li>
         ))}
         <li className="nav-item">
-          <a
-            href="!#"
+          <button
             className="nav-link"
             onClick={() =>
               handleMaxPageLimit(pageNumbers[pageNumbers.length - 1])
             }
           >
             <KeyboardDoubleArrowRight />
-          </a>
+          </button>
         </li>
       </ul>
     </nav>
