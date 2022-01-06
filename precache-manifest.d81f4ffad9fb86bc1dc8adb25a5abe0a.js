@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "876c191775072cd737e8",
+    "revision": "02f5fb1d58c9e9fed0a3",
     "url": "/kalpas-assessment/static/css/main.75d63dd9.chunk.css"
   },
   {
-    "revision": "876c191775072cd737e8",
-    "url": "/kalpas-assessment/static/js/main.876c1917.chunk.js"
+    "revision": "02f5fb1d58c9e9fed0a3",
+    "url": "/kalpas-assessment/static/js/main.02f5fb1d.chunk.js"
   },
   {
     "revision": "e5eaf0fb7afe3f548b14",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/kalpas-assessment/static/js/runtime~main.0b7fe41a.js"
   },
   {
-    "revision": "03775ac8908e4fd49992a8c2ee78bd2a",
+    "revision": "ccec1487faac1b71d7d5c4b278edb9a2",
     "url": "/kalpas-assessment/index.html"
   }
 ];

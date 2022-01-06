@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kalpas-assessment/precache-manifest.6ff699f099bc04fd7a176851a7da9626.js"
+  "/kalpas-assessment/precache-manifest.d81f4ffad9fb86bc1dc8adb25a5abe0a.js"
 );
 
 workbox.clientsClaim();

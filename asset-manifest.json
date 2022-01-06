@@ -1,7 +1,7 @@
 {
   "main.css": "/kalpas-assessment/static/css/main.75d63dd9.chunk.css",
-  "main.js": "/kalpas-assessment/static/js/main.876c1917.chunk.js",
-  "main.js.map": "/kalpas-assessment/static/js/main.876c1917.chunk.js.map",
+  "main.js": "/kalpas-assessment/static/js/main.02f5fb1d.chunk.js",
+  "main.js.map": "/kalpas-assessment/static/js/main.02f5fb1d.chunk.js.map",
   "static/css/1.0f44324f.chunk.css": "/kalpas-assessment/static/css/1.0f44324f.chunk.css",
   "static/js/1.e5eaf0fb.chunk.js": "/kalpas-assessment/static/js/1.e5eaf0fb.chunk.js",
   "static/js/1.e5eaf0fb.chunk.js.map": "/kalpas-assessment/static/js/1.e5eaf0fb.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.75d63dd9.chunk.css.map": "/kalpas-assessment/static/css/main.75d63dd9.chunk.css.map",
   "static/css/1.0f44324f.chunk.css.map": "/kalpas-assessment/static/css/1.0f44324f.chunk.css.map",
   "index.html": "/kalpas-assessment/index.html",
-  "precache-manifest.6ff699f099bc04fd7a176851a7da9626.js": "/kalpas-assessment/precache-manifest.6ff699f099bc04fd7a176851a7da9626.js",
+  "precache-manifest.d81f4ffad9fb86bc1dc8adb25a5abe0a.js": "/kalpas-assessment/precache-manifest.d81f4ffad9fb86bc1dc8adb25a5abe0a.js",
   "service-worker.js": "/kalpas-assessment/service-worker.js"
 }
