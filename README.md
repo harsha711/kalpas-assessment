@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
-## Live Page: https://harsha711.github.io/kalpas-assessment/
+### Live Page: https://harsha711.github.io/kalpas-assessment/
+
+### Screenshots:
+![image](https://user-images.githubusercontent.com/52829395/148366479-d535a406-1c6a-47b9-87e1-d2859115fd41.png)
+![image](https://user-images.githubusercontent.com/52829395/148366532-54cefdc9-fb9a-4db5-b52e-4dcd00f09d30.png)
+![image](https://user-images.githubusercontent.com/52829395/148366596-b1aead19-fbf9-43ad-b035-c50813be67ec.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
