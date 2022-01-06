@@ -16,13 +16,9 @@ export default function ColumnFeed({ posts, removePost, viewPost }) {
 
             <h5 className="card-title">{post.title}</h5>
             <p className="card-text">{`${post.body.substring(0, 25)}...`}</p>
-            <a
-              href="!#"
-              className="btn btn-primary"
-              onClick={() => viewPost(post)}
-            >
+            <button className="btn btn-primary" onClick={() => viewPost(post)}>
               Read More
-            </a>
+            </button>
           </div>
         </div>
       ))}
